@@ -7,7 +7,7 @@ import org.junit.runner.RunWith;
 @RunWith(Cucumber.class)
 @CucumberOptions(     // Regression Suit
 
-        features = "/Users/htamoukraytt/IdeaProjects/MasjidElhouda/src/test/resources/features",  // path of the feature
+        features ="/Users/htamoukraytt/IdeaProjects/MasjidElhouda/src/test/resources/features",  // path of the feature
         glue =  "com/stepDef",     // path of stepDef(snippets)
         dryRun = false,
         tags =  "@Smoke" ,
