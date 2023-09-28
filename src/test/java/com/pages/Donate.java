@@ -83,7 +83,7 @@ public class Donate {
                 System.out.println("wrong Donation Type!");
         }
 
-        Thread.sleep(3000);
+        Thread.sleep(4000);
         String url=driver.getCurrentUrl();
         return url;
 

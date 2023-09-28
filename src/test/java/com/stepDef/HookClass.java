@@ -16,9 +16,7 @@ public class HookClass {
    public void setUp(){
        driver.get(ConfigReader.readProperty("QA_URL"));
 
-
    }
-
 
 
     @After

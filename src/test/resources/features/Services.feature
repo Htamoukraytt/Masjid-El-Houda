@@ -13,16 +13,19 @@ Feature:  Testing Services Feature
 
 
     Examples:
-      | OPTION           | URL                                 |
-      | Zakat/Sadaqah    | https://masjidalhuda.org/zakat/     |
-      | Janazah          | https://masjidalhuda.org/janazah/   |
-      | Nikah            | https://masjidalhuda.org/nikah/     |
-      | Advice           | https://masjidalhuda.org/advice/    |
-      | Al Huda Academy  | https://www.alhudaacademy.com/      |
-      | Weekend School   | https://www.alhudasundayschool.org/ |
-      | Maktab/Nazirah   | https://masjidalhuda.org/quran/     |
-      | Outreach         | https://masjidalhuda.org/outreach/  |
+      | OPTION          | URL                                |
+      | Zakat/Sadaqah   | https://masjidalhuda.org/zakat/    |
+      | Janazah         | https://masjidalhuda.org/janazah/  |
+      | Nikah           | https://masjidalhuda.org/nikah/    |
+      | Advice          | https://masjidalhuda.org/advice/   |
+      | Al Huda Academy | https://www.alhudaacademy.com/     |
+      | Weekend School  | http://www.alhudasundayschool.org/ |
+      | Maktab/Nazirah  | https://masjidalhuda.org/quran/    |
+      | Outreach        | https://masjidalhuda.org/outreach/ |
 #      | Newly Practicing |                                     |    // not available
 #      | Adult Education  |                                     |   //  not available
+#   +++  Weekend School  ---->  http://www.alhudasundayschool.org/
+
+
 
 

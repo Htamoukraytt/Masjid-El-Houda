@@ -1,4 +1,4 @@
-
+@Regression
 Feature:  Testing About Us feature
 
   Background:
